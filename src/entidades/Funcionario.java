@@ -34,7 +34,8 @@ public class Funcionario {
 	
 	public String toString() {
 		
-		return id
+		return "id: "
+				+ id
 				+ ", "
 				+ nome
 				+ ", "
